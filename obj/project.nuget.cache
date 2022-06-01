@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "J2QvgAoJPvM4l5q2ORjNZI0+awFstojhNcgy8XHUbq7B7b8irht3aau/s5UJ0pnMzKjDQCLu5E52cN/qXrESBA==",
+  "success": true,
+  "projectFilePath": "/home/ronanzin/prog/c#/redis/redis.csproj",
+  "expectedPackageFiles": [
+    "/home/ronanzin/.nuget/packages/microsoft.csharp/4.7.0/microsoft.csharp.4.7.0.nupkg.sha512",
+    "/home/ronanzin/.nuget/packages/servicestack.common/6.1.0/servicestack.common.6.1.0.nupkg.sha512",
+    "/home/ronanzin/.nuget/packages/servicestack.interfaces/6.1.0/servicestack.interfaces.6.1.0.nupkg.sha512",
+    "/home/ronanzin/.nuget/packages/servicestack.redis/6.1.0/servicestack.redis.6.1.0.nupkg.sha512",
+    "/home/ronanzin/.nuget/packages/servicestack.text/6.1.0/servicestack.text.6.1.0.nupkg.sha512",
+    "/home/ronanzin/.nuget/packages/system.memory/4.5.4/system.memory.4.5.4.nupkg.sha512",
+    "/home/ronanzin/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.2/microsoft.aspnetcore.app.ref.6.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
